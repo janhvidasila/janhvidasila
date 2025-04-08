@@ -1,4 +1,4 @@
-                                               ### Hello 👋🏼
+### Hello 👋🏼
 
 Just a curious human making sense of the world, one dataset at a time.  
 CS undergrad with a minor in Data Science — driven by dashboards, clean code, and lifelong learning.  
